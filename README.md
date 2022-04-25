@@ -19,8 +19,10 @@ https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels-sha
 |    | MCAS | 
 |    | Auto labelling policies | 
 
-## Licensing requirements
-https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-purview-information-protection-sensitivity-labeling
+[Licensing requirements](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-purview-information-protection-sensitivity-labeling)
+
+# Capability Matrix
+![Capability Matrix](/SensitivityLabelsapabilityMatrix.png "Capability Matrix Image!")
 
 # Autolabelling policies
 When you create a sensitivity label, you can automatically assign that label to files and emails when it matches conditions that you specify.
@@ -149,3 +151,11 @@ Microsoft Defender for Cloud Apps lets you automatically apply sensitivity label
  - [Yammer : Microsoft Information Protection Team : Home](https://www.yammer.com/AskIPTeam/#/home)
 - [Apply a sensitivity label to a model in Microsoft SharePoint Syntex](https://docs.microsoft.com/en-us/microsoft-365/contentunderstanding/apply-a-sensitivity-label-to-a-model)
 - ["Default” label for a document library ](https://www.linkedin.com/pulse/default-label-document-library-sanjoyan-mustafi/)
+
+
+
+
+
+
+
+
