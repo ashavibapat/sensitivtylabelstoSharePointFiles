@@ -111,9 +111,10 @@ The MIP SDK exposes the labeling and protection services from Office 365 Securit
 https://docs.microsoft.com/en-us/information-protection/develop/setup-configure-mip#prerequisites
 
 ## Capabilities
-https://docs.microsoft.com/en-us/information-protection/develop/concept-apis-use-cases
+- https://docs.microsoft.com/en-us/information-protection/develop/concept-apis-use-cases
 
 - Two options offered by File engine to apply label. Both cases file stream is used to upload file back to SPO.	
+  [Using MIP SDK in SharePoint](https://mysharepointlearnings.wordpress.com/2019/07/26/using-mip-sdk-in-sharepoint/)
     - Work with SPO files downloaded on file system.
     - Work with SPO file stream.
 - Creates a new file version and doesn’t retain Modified, Modified By as CSOM code is used to upload file stream back to SPO.
