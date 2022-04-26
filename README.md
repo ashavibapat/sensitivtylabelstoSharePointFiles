@@ -49,6 +49,8 @@ Service-side labeling when content is already saved (in SharePoint or OneDrive) 
 # AIP Scanner
 The AIP scanner runs as a service on Windows Server and allows scanning below locations. Stores configuration in onprem SQL DB instance.UNC paths for network shares that use the SMB or NFS (Preview) protocols and SharePoint document libraries and folder for SharePoint Server 2019 through SharePoint Server 2013.The scanner uses the Azure Information Protection client and can classify and protect the same types of files as the client. 
 
+![AIP Scanner](/AIPScannerDiagram.jpg "AIP Scanner")
+
 ## Prerequisites
 https://docs.microsoft.com/en-us/azure/information-protection/deploy-aip-scanner-prereqs
 
